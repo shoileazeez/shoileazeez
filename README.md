@@ -1,58 +1,84 @@
-## 👨‍💻 Full Stack Developer | React & Django Specialist | ML Engineer | API Architect  
+# 👋 Hi, I'm **AbdulAzeez Shoile**  
 
-### 🚀 About Me  
-I'm a passionate full-stack developer and ML engineer with expertise in building modern web applications from frontend to backend, enhanced with machine learning capabilities and AI integration. With proficiency in React, Django, data science, and prompt engineering, I create intelligent applications that combine seamless user experiences with powerful predictive analytics, conversational AI, and robust server-side architecture.
+**Full-Stack Developer (React & Django) | ML Engineer | API Architect**  
 
-### 💻 Technical Skills  
+📍 Ogun State, Nigeria  
 
-#### **Frontend Technologies:**  
-- **React** | JavaScript (ES6+) | HTML5 | CSS3  
-- **Tailwind CSS** | Responsive Design | Component Architecture  
-- **State Management:** Zustand | Hooks | Modern UI/UX Principles  
-- **HTTP Client:** Axios | API Integration | Async Data Fetching  
+- 📧 [shoabdulazeez@gmail.com](mailto:shoabdulazeez@gmail.com)  
+- 🌐 [Portfolio](https://shoileabdulazeez.tech)  
+- 💻 [GitHub](https://github.com/shoileazeez)  
+- 🔗 [LinkedIn](https://linkedin.com/in/shoileabdulazeez)  
 
-#### **Backend Technologies:**  
-- **Python** | Django | Django REST Framework  
-- **RESTful APIs** | Authentication & Authorization  
-- **Real-time Communication:** WebSockets | Django Channels  
-- **SQL** | PostgreSQL | Redis  
+---
 
-#### **Machine Learning & Data Science:**  
-- **Scikit-learn** | Supervised Learning Algorithms  
-- **Algorithms:** KNN | Ridge Regression | Logistic Regression | Linear Regression  
-- **Model Optimization:** GridSearchCV | Cross-Validation | Hyperparameter Tuning  
-- **Data Analysis:** Pandas | NumPy | Data Preprocessing  
-- **Data Visualization:** Matplotlib | Statistical Analysis  
+## 🚀 About Me  
 
-#### **AI & Prompt Engineering:**  
-- **Prompt Engineering Techniques:** Role Prompting | System Prompting  
-- **Few-Shot Learning:** One-Shot | Two-Shot | Few-Shot Prompting  
-- **Prompt Optimization:** Concise Prompting | Context Engineering  
-- **AI Integration:** LLM APIs | Conversational AI | Content Generation  
+I’m a **junior software engineer** passionate about building **data-driven applications** that merge web, APIs, and AI.  
+I work across the stack — from **modern UIs** to **ML inference APIs** — with a focus on **applied AI in fintech and decision support**.  
 
-#### **DevOps & Tools:**  
-- **Docker** | Kubernetes | CI/CD  
-- **Git** | Version Control | Collaborative Development  
-- **API Documentation** (Postman, Swagger)  
+---
 
-#### **Core Competencies:**  
-- **Full Stack Web Application Development**  
-- **Machine Learning Model Development & Integration**  
-- **AI Integration & Prompt Engineering**  
-- **RESTful API Design & Integration**  
-- **Real-time Applications with WebSockets**  
-- **Modern Frontend Architecture with React & Zustand**  
-- **Responsive Web Design with Tailwind CSS**  
-- **Data Analysis & Predictive Modeling**  
-- **Database Schema Design & Optimization** 
-- **Authentication & Authorization Systems**  
-- **Automated Testing & Test-Driven Development (TDD)**  
-- **Asynchronous Task Processing (Celery)**  
-- **Performance Optimization (Frontend & Backend)**  
+## 🛠️ Technical Skills  
 
+### 🌐 Frontend  
+- React • Next.js • JavaScript (ES6+) • HTML5 • CSS3  
+- Tailwind CSS • Responsive Design • Component Architecture  
+- State Management: Zustand • React Hooks  
+- API Integration: Axios • Async Data Fetching  
 
-### 🤝 Let's Connect  
-I'm always excited to collaborate on innovative projects or discuss full stack development, machine learning applications, AI integration, prompt engineering, modern web technologies, and intelligent system architecture.  
+### ⚙️ Backend  
+- Python • Django • DRF • FastAPI • Node.js • Express  
+- RESTful APIs • Auth (JWT/OAuth)  
+- Real-time: WebSockets • Django Channels  
+- Databases: PostgreSQL • MySQL • MongoDB • Redis  
+- Async Tasks: Celery  
 
-📧 **Email:** shoabdulazeez@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/shoile-abdulazeez-8143842ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+### 🤖 Machine Learning / Data Science  
+- scikit-learn • Supervised ML (KNN, Logistic/Ridge/Linear Regression)  
+- Model Optimization: GridSearchCV • Cross-Validation  
+- Data Analysis: pandas • NumPy  
+- Visualization: Matplotlib • Seaborn  
+
+### 🧠 AI & Prompt Engineering  
+- Role/System/One-/Few-Shot Prompting • Context Engineering  
+- LLM APIs • Conversational AI • Vercel AI SDK  
+
+### 🧩 DevOps & Tools  
+- Docker • Git/GitHub • CI/CD  
+- Postman • Swagger (API Docs)  
+- Figma (Wireframes & Components)  
+
+---
+
+## 🌟 Highlights  
+
+- 🚀 Built an **end-to-end loan recommendation system** with ML + API deployment.  
+- 🤝 Designed **credit confidence scoring** using LLM prompting & ML predictions.  
+- 🖥️ Delivered **full-stack apps**: APIs, responsive UIs, and Figma-based designs.  
+
+---
+
+## 📊 GitHub Stats  
+
+![Shoile's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shoileazeez&show_icons=true&theme=tokyonight)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shoileazeez&layout=compact&theme=tokyonight)  
+
+![GitHub Streak](https://streak-stats.demolab.com?user=shoileazeez&theme=tokyonight&date_format=j%20M%5B%20Y%5D)  
+
+---
+
+## ✨ Extras  
+
+- 🎨 **UI/UX**: Wireframing & component design in Figma  
+- 💡 **Interests**: Fintech AI • Recommendation Systems • AI Agents  
+
+---
+
+## 🤝 Let’s Connect  
+
+- 📧 [shoabdulazeez@gmail.com](mailto:shoabdulazeez@gmail.com)  
+- 🔗 [LinkedIn](https://linkedin.com/in/shoileabdulazeez)  
+
+Thanks for visiting my profile! 🚀  
+
