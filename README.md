@@ -5,7 +5,7 @@
 📍 Ogun State, Nigeria  
 
 - 📧 [shoabdulazeez@gmail.com](mailto:shoabdulazeez@gmail.com)  
-- 🌐 [Portfolio](https://shoileabdulazeez.tech)  
+- 🌐 [Portfolio](https://abdulazeez-shoile-a-portfolio.vercel.app/)  
 - 💻 [GitHub](https://github.com/shoileazeez)  
 - 🔗 [LinkedIn](https://linkedin.com/in/shoileabdulazeez)  
 
