@@ -59,7 +59,7 @@ I am a software engineer and full-stack engineer building production-ready appli
 
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=shoileazeez&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shoileazeez&theme=darkhub&no-frame=true&column=4&margin-w=12&margin-h=12&no-bg=true" alt="GitHub trophies" />
 
 </div>
 
@@ -77,14 +77,15 @@ FlowAI is a WhatsApp automation platform for businesses in Nigeria and worldwide
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shoileazeez&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" alt="Shoile Azeez's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoileazeez&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Shoile Azeez's top languages" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shoileazeez&theme=github_dark" alt="Shoile Azeez's GitHub stats" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shoileazeez&theme=github_dark" alt="Shoile Azeez's top repository languages" />
 
 </div>
 
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com?user=shoileazeez&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub streak" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shoileazeez&theme=github_dark" alt="Shoile Azeez's most committed languages" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=shoileazeez&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub streak" />
 
 </div>
 
