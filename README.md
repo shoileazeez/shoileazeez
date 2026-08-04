@@ -69,13 +69,13 @@ FlowAI is a WhatsApp automation platform for businesses in Nigeria and worldwide
 
 <div align="center">
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shoileazeez&theme=github_dark&name=Shoile%20Azeez&animation=rgb-soft&duration=10" alt="Shoile Azeez's GitHub profile details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shoileazeez&amp;theme=github_dark" alt="Shoile Azeez's GitHub profile details" />
 
 </div>
 
 <div align="center">
 
-  <a href="https://github.com/shoileazeez?tab=repositories"><img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shoileazeez&amp;theme=github_dark&amp;animation=rgb-soft&amp;duration=10" alt="Shoile Azeez's most committed languages" /></a>
+  <a href="https://github.com/shoileazeez?tab=repositories"><img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shoileazeez&amp;theme=github_dark" alt="Shoile Azeez's most committed languages" /></a>
   <a href="https://github.com/shoileazeez"><img height="180" src="https://streak-stats.demolab.com?user=shoileazeez&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=8" alt="Shoile Azeez's GitHub streak" /></a>
 
 </div>
