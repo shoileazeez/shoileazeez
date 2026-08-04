@@ -62,8 +62,8 @@ FlowAI is a WhatsApp automation platform for businesses in Nigeria and worldwide
 
 <div align="center">
 
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shoileazeez&theme=github_dark&animation=rgb-soft&duration=10&hide_logo=true" alt="Shoile Azeez's GitHub stats" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shoileazeez&theme=github_dark&animation=rgb-soft&duration=10" alt="Shoile Azeez's repository languages" />
+  <a href="https://github.com/shoileazeez"><img height="180" src="https://github-stats-extended.vercel.app/api?username=shoileazeez&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="Shoile Azeez's GitHub stats" /></a>
+  <a href="https://github.com/shoileazeez?tab=repositories"><img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=shoileazeez&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8" alt="Shoile Azeez's top languages" /></a>
 
 </div>
 
@@ -75,8 +75,8 @@ FlowAI is a WhatsApp automation platform for businesses in Nigeria and worldwide
 
 <div align="center">
 
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shoileazeez&theme=github_dark&animation=rgb-soft&duration=10" alt="Shoile Azeez's most committed languages" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shoileazeez&theme=github_dark&utcOffset=1&animation=rgb-soft&duration=10" alt="Shoile Azeez's productive coding time" />
+  <a href="https://github.com/shoileazeez?tab=repositories"><img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shoileazeez&amp;theme=github_dark&amp;animation=rgb-soft&amp;duration=10" alt="Shoile Azeez's most committed languages" /></a>
+  <a href="https://github.com/shoileazeez"><img height="180" src="https://streak-stats.demolab.com?user=shoileazeez&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=8" alt="Shoile Azeez's GitHub streak" /></a>
 
 </div>
 
