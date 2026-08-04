@@ -58,23 +58,47 @@ FlowAI is a WhatsApp automation platform for businesses in Nigeria and worldwide
 
 ---
 
-## GitHub Activity
+## GitHub Analytics
 
 <div align="center">
 
-  <a href="https://github.com/shoileazeez"><img src="https://ghchart.rshah.org/00E5FF/shoileazeez" alt="Shoile Azeez's GitHub contribution graph" /></a>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shoileazeez&theme=github_dark&animation=rgb-soft&duration=10&hide_logo=true" alt="Shoile Azeez's GitHub stats" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shoileazeez&theme=github_dark&animation=rgb-soft&duration=10" alt="Shoile Azeez's repository languages" />
 
 </div>
 
 <div align="center">
 
-  <a href="https://github.com/shoileazeez"><img src="https://img.shields.io/github/followers/shoileazeez?style=for-the-badge&logo=github&label=Followers&color=00E5FF&labelColor=101820" alt="GitHub followers" /></a>
-  <a href="https://github.com/shoileazeez?tab=repositories"><img src="https://img.shields.io/badge/Repositories-View-00E5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=101820" alt="View repositories" /></a>
-  <a href="https://github.com/shoileazeez?tab=repositories"><img src="https://img.shields.io/github/commit-activity/y/shoileazeez/shoileazeez?style=for-the-badge&logo=github&label=Activity&color=00E5FF&labelColor=101820" alt="GitHub activity" /></a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shoileazeez&theme=github_dark&name=Shoile%20Azeez&animation=rgb-soft&duration=10" alt="Shoile Azeez's GitHub profile details" />
 
 </div>
 
-<p align="center">See my <a href="https://github.com/shoileazeez">GitHub profile</a> for the complete native contribution graph, repositories, languages, and achievements.</p>
+<div align="center">
+
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shoileazeez&theme=github_dark&animation=rgb-soft&duration=10" alt="Shoile Azeez's most committed languages" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shoileazeez&theme=github_dark&utcOffset=1&animation=rgb-soft&duration=10" alt="Shoile Azeez's productive coding time" />
+
+</div>
+
+---
+
+## GitHub Trophies
+
+<div align="center">
+
+  <img src="https://trophy.benkou.dev/?username=shoileazeez" alt="Shoile Azeez's GitHub trophies" />
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shoileazeez&bg_color=101820&color=00E5FF&line=00E5FF&point=FFFFFF&area=true&hide_border=true&custom_title=Shoile%20Azeez%27s%20Contribution%20Graph" alt="Shoile Azeez's GitHub contribution graph" />
+
+</div>
 
 ---
 
