@@ -43,7 +43,7 @@ I am a software engineer and full-stack engineer building production-ready appli
 
 ### Database & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,digitalocean,githubactions" alt="Database and infrastructure tools" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,docker,nginx,digitalocean,githubactions" alt="Database and infrastructure tools" />
 
 ### Tools & AI Engineering
 
@@ -77,8 +77,8 @@ FlowAI is a WhatsApp automation platform for businesses in Nigeria and worldwide
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shoileazeez&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoileazeez&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shoileazeez&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" alt="Shoile Azeez's GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoileazeez&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Shoile Azeez's top languages" />
 
 </div>
 
@@ -94,7 +94,7 @@ FlowAI is a WhatsApp automation platform for businesses in Nigeria and worldwide
 
 <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shoileazeez&theme=tokyo-night&hide_border=true&area=true&custom_title=Shoile%20Azeez%27s%20Contribution%20Graph" alt="GitHub activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shoileazeez&bg_color=101820&color=00E5FF&line=00E5FF&point=FFFFFF&area_color=00E5FF&area=true&hide_border=true&custom_title=Shoile%20Azeez%27s%20Contribution%20Graph" alt="Shoile Azeez's GitHub contribution graph" />
 
 </div>
 
@@ -107,7 +107,7 @@ Frontend    React, Next.js, Tailwind CSS, HTML, CSS, JavaScript, TypeScript
 Backend     Django, Django REST Framework, NestJS, REST APIs, system design
 Database    PostgreSQL, MySQL, SQLite
 AI          PydanticAI, LangGraph, AI agents, LLM application workflows
-Infrastructure  DigitalOcean, GitHub Actions, Git, GitHub
+Infrastructure  Docker, Nginx, DigitalOcean, GitHub Actions, Git, GitHub
 Focus       Production software, full-stack systems, AI-powered applications, business automation, agents, and robotics
 ```
 
