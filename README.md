@@ -59,7 +59,7 @@ I am a software engineer and full-stack engineer building production-ready appli
 
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=shoileazeez&theme=darkhub&no-frame=true&column=4&margin-w=12&margin-h=12&no-bg=true" alt="GitHub trophies" />
+  <img src="./profile-summary-card-output/trophy.svg" alt="GitHub trophies" />
 
 </div>
 
@@ -77,14 +77,14 @@ FlowAI is a WhatsApp automation platform for businesses in Nigeria and worldwide
 
 <div align="center">
 
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shoileazeez&theme=github_dark" alt="Shoile Azeez's GitHub stats" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shoileazeez&theme=github_dark" alt="Shoile Azeez's top repository languages" />
+  <img height="180em" src="./profile-summary-card-output/stats.svg" alt="Shoile Azeez's GitHub stats" />
+  <img height="180em" src="./profile-summary-card-output/repos-per-language.svg" alt="Shoile Azeez's top repository languages" />
 
 </div>
 
 <div align="center">
 
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shoileazeez&theme=github_dark" alt="Shoile Azeez's most committed languages" />
+  <img height="180em" src="./profile-summary-card-output/most-commit-language.svg" alt="Shoile Azeez's most committed languages" />
   <img height="180em" src="https://streak-stats.demolab.com?user=shoileazeez&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub streak" />
 
 </div>
@@ -95,7 +95,7 @@ FlowAI is a WhatsApp automation platform for businesses in Nigeria and worldwide
 
 <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shoileazeez&bg_color=101820&color=00E5FF&line=00E5FF&point=FFFFFF&area_color=00E5FF&area=true&hide_border=true&custom_title=Shoile%20Azeez%27s%20Contribution%20Graph" alt="Shoile Azeez's GitHub contribution graph" />
+  <img src="./profile-summary-card-output/contributions.svg" alt="Shoile Azeez's GitHub contribution graph" />
 
 </div>
 
