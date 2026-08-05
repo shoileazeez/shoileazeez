@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Shoile+Azeez;Software+Engineer;Full-Stack+Engineer+%7C+AI-Powered+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Abdulazeez +Shoile;Software+Engineer;Full-Stack+Engineer+%7C+AI-Powered+Systems" alt="Typing SVG" />
 
   <p>
     <a href="https://github.com/shoileazeez?tab=followers"><img src="https://img.shields.io/github/followers/shoileazeez?label=Followers&style=for-the-badge&logo=github&color=00E5FF&labelColor=101820" alt="GitHub followers" /></a>
